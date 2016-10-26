@@ -1,0 +1,8 @@
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\bin\Debug\FormasGeometricas.exe.config
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.csprojResolveAssemblyReference.cache
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.Properties.Resources.resources
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.csproj.GenerateResource.Cache
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\bin\Debug\FormasGeometricas.exe
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\bin\Debug\FormasGeometricas.pdb
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.exe
+Z:\2016S2\POO\N1_B2\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.pdb
