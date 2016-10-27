@@ -9,3 +9,8 @@ C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\Calcula
 C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\bin\Debug\CalcularContasPagar.exe.config
 C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\obj\Debug\CalcularContasPagar.exe
 C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\obj\Debug\CalcularContasPagar.pdb
+C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\bin\Debug\CalcularContasPagar.exe
+C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\bin\Debug\CalcularContasPagar.pdb
+C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\obj\Debug\CalcularContasPagar.csprojResolveAssemblyReference.cache
+C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\obj\Debug\CalcularContasPagar.Properties.Resources.resources
+C:\Users\Bill Gates\Documents\GitHub\2016_S2_pooN1B2\CalcularContasPagar\CalcularContasPagar\obj\Debug\CalcularContasPagar.csproj.GenerateResource.Cache

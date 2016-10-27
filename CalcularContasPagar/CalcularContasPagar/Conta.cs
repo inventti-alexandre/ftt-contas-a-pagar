@@ -19,7 +19,7 @@ namespace CalcularContasPagar
             {
                 return valor_total;
             }
-            private set
+            set
             {
                 if (value < 0)
                 {
@@ -37,9 +37,9 @@ namespace CalcularContasPagar
             {
                 return cod_cliente;
             }
-            private set
+            set
             {
-                if (value > 0)
+                if (value <= 0)
                 {
                     throw new Exception("O código do cliente não pode ser zero");
                 }

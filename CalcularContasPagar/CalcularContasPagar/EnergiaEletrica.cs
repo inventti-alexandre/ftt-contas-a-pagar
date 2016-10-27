@@ -29,12 +29,12 @@ namespace CalcularContasPagar
 
         public override double CalcularAumentoAnual(double taxa)
         {
-            throw new NotImplementedException();
+            return (ValorTotal * taxa) / 100;
         }
 
         public override double CalcularValorParcelamento(int num_parcelas)
         {
-            throw new NotImplementedException();
+            return ValorTotal / num_parcelas;
         }
     }
 }
