@@ -21,7 +21,7 @@ namespace FormasGeometricas
 
         public override double CalcularPerimetro(double ladoA, double ladoB)
         {
-            return ladoA * 4;
+            return base.CalcularPerimetro(ladoA, ladoB);
         }
     }
 }
