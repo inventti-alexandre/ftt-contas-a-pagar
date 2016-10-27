@@ -16,7 +16,7 @@ namespace FormasGeometricas
         #endregion
 
         #region Propriedades
-        protected int[] PrimeiroPonto
+        public int[] PrimeiroPonto
         {
             get
             {
@@ -28,7 +28,7 @@ namespace FormasGeometricas
             }
         }
 
-        protected int[] SegundoPonto
+        public int[] SegundoPonto
         {
             get
             {
@@ -39,7 +39,7 @@ namespace FormasGeometricas
                 segundo_ponto = value;
             }
         }
-        protected int[] TerceiroPonto
+        public int[] TerceiroPonto
         {
             get
             {
@@ -50,7 +50,7 @@ namespace FormasGeometricas
                 terceiro_ponto = value;
             }
         }
-        protected int[] QuartoPonto
+        public int[] QuartoPonto
         {
             get
             {
